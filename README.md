@@ -1,11 +1,11 @@
 # Deepseek Clone — White-Label AI Platform & Assistant by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxai.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdemo.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/deepseek-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/deepseek-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/deepseek-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/deepseek-clone/#features)
 
-**MXAI** is a production-ready, white-label Deepseek clone: a complete AI platform with chat, generation, retrieval, and admin console — delivered with **100% source code ownership** in **6 working days**.
+**MXDemo** is a production-ready, white-label Deepseek clone: a complete AI platform with chat, generation, retrieval, and admin console — delivered with **100% source code ownership** in **6 working days**.
 
 > 🤖 **See it running before you talk to anyone.** Live user app, admin console, and API playground — demo credentials are printed on the [solution page](https://miracuves.com/deepseek-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 Mobile App | [mas.mimeld.com](https://mas.mimeld.com) | Chat, generate, analyze, create |
-| 🌐 Web Platform | [mxai.mimeld.com](https://mxai.mimeld.com) | Full AI workspace in browser |
+| 🌐 Web Platform | [mxdemo.mimeld.com](https://mxdemo.mimeld.com) | Full AI workspace in browser |
 | ⚙️ Dev Console | [Solution page → Demo](https://miracuves.com/deepseek-clone#demo) | Models, embeddings, fine-tunes, logs |
 | 🛠️ Admin Dashboard | [Solution page → Demo](https://miracuves.com/deepseek-clone#demo) | Users, plans, billing, analytics |
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$3,299**, transparent on the [solution page](https://miracuves.com/deepseek-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$3,299**, transparent on the [solution page](https://miracuves.com/deepseek-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom AI platforms run $100k–$500k and 4–9 months. A proven white-label bas
 ## 📚 Resources
 
 - 📖 [Deepseek Clone — Full Solution Page](https://miracuves.com/deepseek-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does an AI Platform Cost in 2026?](https://miracuves.com/deepseek-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Deepseek Clone Script in 2026](https://miracuves.com/deepseek-clone/blog/) features, pricing & launch guide
-- 🧠 [Multi-Model Routing: How AI Products Cut Inference Cost](https://miracuves.com/deepseek-clone/blog/) routing, budgeting, fallback
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/deepseek-clone/facts/) every claim we make, verified
+- 💰 [How Much Does an AI Platform Cost in 2026?](https://miracuves.com/deepseek-clone#features) pricing breakdown & what's included
+- 📝 [Best Deepseek Clone Script in 2026](https://miracuves.com/deepseek-clone#features) features, pricing & launch guide
+- 🧠 [Multi-Model Routing: How AI Products Cut Inference Cost](https://miracuves.com/deepseek-clone#features) routing, budgeting, fallback
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/deepseek-clone#faq) every claim we make, verified
+- 💻 [Deepseek Clone — Technical Stack](https://miracuves.com/deepseek-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Deepseek Clone — How It Works / User Flow](https://miracuves.com/deepseek-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom AI platforms run $100k–$500k and 4–9 months. A proven white-label bas
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/deepseek-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/deepseek-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: deepseek clone, deepseek clone script, AI platform, AI assistant, white label ChatGPT, multi-model, RAG, Flutter AI, Node.js AI*
 
@@ -106,9 +108,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Deepseek Clone
-{MX_NAME}         MXAI
+{MX_NAME}         MXDemo
 {CATEGORY}        AI Platform & Assistant
-{DEMO_WEB}        mxai.mimeld.com
+{DEMO_WEB}        mxdemo.mimeld.com
 {PRICE}           $3,299
 {SLUG}            deepseek-clone
 {SOLUTION_URL}    https://miracuves.com/deepseek-clone/
